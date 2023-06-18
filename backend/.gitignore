@@ -1,0 +1,14 @@
+# Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.swp
+.DS_Store
+
+# IDE-specific
+.idea/
+.vscode/
